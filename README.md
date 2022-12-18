@@ -1,2 +1,2 @@
 # adventofcode
-Scripts to answer [adventofcode.com] questions: https://adventofcode.com/2022
+Scripts to answer [adventofcode.com](https://adventofcode.com/2022) questions.
